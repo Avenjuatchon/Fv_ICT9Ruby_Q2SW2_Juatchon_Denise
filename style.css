@@ -1,0 +1,37 @@
+.container1{
+	background-color: red;
+}
+.container2{
+	background-color: rosybrown;
+	width:303px;
+	padding: 15px;
+	margin: auto;
+	box-shadow: 2px 2px 50px rgba(0,0,0, 0.8);
+	border: 2px dashed orange;
+}
+
+#submit{
+	background-color: #e3bb64;
+	color: white;
+}
+
+body{
+	background-image: url('https://img.americanmachinist.com/files/base/ebm/americanmachinist/image/2024/09/66dbcfe89c764c39ba17ca5e-adreamstime324037558promo.png?auto=format,compress&fit=crop&q=45&h=356&height=356&w=640&width=640');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+label{
+	font-family: fantasy;
+	font-size: 13px;
+	color: #e3bb64;
+}
+id{
+	background-color: rosybrown;
+	color: saddlebrown;
+}
+text{
+	background-color: rosybrown;
+	color: saddlebrown;
+}
+
